@@ -1,6 +1,6 @@
 # DOMemory React-Native Application
 
-Welcome to the README for the DOMemory React-Native application! This application serves as an index card system where users can create, update, and review cards for various topics. Users can then test themselves through session modes, with their progress being tracked over time.
+This application serves as an index card system where users can create, update, and review cards for various topics. Users can then test themselves through session modes, with their progress being tracked over time.
 
 ## Screenshots
 
@@ -25,15 +25,5 @@ Below are the screenshots to give you a visual overview of the application:
 - **Description**: For user convenience, the application offers both light and dark modes.
 
 ## Getting Started
-[Provide instructions on how to install and run the application, any prerequisites, etc.]
 
-## Features
-- Feature 1
-- Feature 2
-- ...
-
-## Contributing
-[Guidelines for contributing to the project]
-
-## License
-[Information about the project's license]
+Accessibility to the app will be provided shortly. Both Android and iOS production builds are planned.
